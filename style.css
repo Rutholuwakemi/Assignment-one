@@ -1,0 +1,23 @@
+body{
+    background-color: azure;
+   
+}
+.lady-img{
+    border-radius: 50%;
+}
+main{
+    margin: 50px auto;
+    background-color: aliceblue;
+    width: 70%;
+    height: auto;
+    display: flex;
+}
+.section2{
+    padding: 40px;
+}
+h3{
+    display: inline-block;
+}
+.p{
+    display: inline-block;
+}
